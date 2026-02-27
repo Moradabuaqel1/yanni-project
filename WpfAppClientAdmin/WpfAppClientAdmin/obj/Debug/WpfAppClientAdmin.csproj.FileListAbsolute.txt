@@ -1,0 +1,92 @@
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\bin\Debug\WpfAppClientAdmin.exe.config
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\bin\Debug\WpfAppClientAdmin.exe
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\bin\Debug\WpfAppClientAdmin.pdb
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\App.g.cs
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin_MarkupCompile.cache
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin_MarkupCompile.lref
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\MainWindow.baml
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin.g.resources
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin.Properties.Resources.resources
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin.exe
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin.pdb
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\AdminPanel.g.cs
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\AdminPanel.baml
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageAddNewAdmin.g.cs
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageAddNewAdmin.baml
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageUpdateAdmin.g.cs
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageUpdateAdmin.baml
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Categories\PageAddNewCategory.g.cs
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Categories\PageAddNewCategory.baml
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Categories\PageUpdateCategory.g.cs
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Categories\PageUpdateCategory.baml
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageDeleteAdmin.g.cs
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageDeleteAdmin.baml
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageUpdateRegularAdmin.g.cs
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageUpdateRegularAdmin.baml
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\bin\Debug\WpfAppClientAdmin.exe.config
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\bin\Debug\WpfAppClientAdmin.exe
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\bin\Debug\WpfAppClientAdmin.pdb
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin.csproj.AssemblyReference.cache
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\AdminPanel.g.cs
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\MainWindow.g.cs
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageAddNewAdmin.g.cs
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageDeleteAdmin.g.cs
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageUpdateAdmin.g.cs
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageUpdateRegularAdmin.g.cs
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Categories\PageAddNewCategory.g.cs
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Categories\PageUpdateCategory.g.cs
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\App.g.cs
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin_MarkupCompile.cache
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin_MarkupCompile.lref
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\AdminPanel.baml
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\MainWindow.baml
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageAddNewAdmin.baml
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageDeleteAdmin.baml
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageUpdateAdmin.baml
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageUpdateRegularAdmin.baml
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Categories\PageAddNewCategory.baml
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Categories\PageUpdateCategory.baml
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin.g.resources
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin.Properties.Resources.resources
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin.csproj.GenerateResource.cache
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin.csproj.CoreCompileInputs.cache
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin.exe
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin.pdb
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Products\PageAddNewProduct.g.cs
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Products\PageAddNewProduct.baml
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\bin\Debug\WpfAppClientAdmin.exe.config
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\bin\Debug\WpfAppClientAdmin.exe
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\bin\Debug\WpfAppClientAdmin.pdb
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin.csproj.AssemblyReference.cache
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin.exe.config
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\AdminPanel.g.cs
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\MainWindow.g.cs
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageAddNewAdmin.g.cs
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageDeleteAdmin.g.cs
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageUpdateAdmin.g.cs
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageUpdateRegularAdmin.g.cs
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Categories\PageAddNewCategory.g.cs
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Categories\PageUpdateCategory.g.cs
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Products\PageAddNewProduct.g.cs
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\App.g.cs
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin_MarkupCompile.cache
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin_MarkupCompile.lref
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\AdminPanel.baml
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\MainWindow.baml
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageAddNewAdmin.baml
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageDeleteAdmin.baml
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageUpdateAdmin.baml
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Admins\PageUpdateRegularAdmin.baml
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Categories\PageAddNewCategory.baml
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Categories\PageUpdateCategory.baml
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\Pages\Products\PageAddNewProduct.baml
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin.g.resources
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin.Properties.Resources.resources
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin.csproj.GenerateResource.cache
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin.csproj.CoreCompileInputs.cache
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin.exe
+E:\21.2\WpfAppClientAdmin\WpfAppClientAdmin\obj\Debug\WpfAppClientAdmin.pdb

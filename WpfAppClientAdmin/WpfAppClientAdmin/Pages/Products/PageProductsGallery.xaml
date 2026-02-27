@@ -1,0 +1,190 @@
+﻿<Page x:Class="WpfAppClientAdmin.Pages.Products.PageAddNewProduct"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfAppClientAdmin.Pages.Products"
+      mc:Ignorable="d" d:DesignWidth="800"
+      Title="PageAddNewProduct" Height="1198.449">
+
+    <Grid Margin="0,0,0,0.4">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Border Background="White"
+            Width="774"
+            Padding="30"
+            CornerRadius="15"
+            VerticalAlignment="Stretch"
+            HorizontalAlignment="Center"
+            Margin="0,0,27,0"
+            Grid.ColumnSpan="2">
+            <Border.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-0.401"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="2.393"/>
+                </TransformGroup>
+            </Border.RenderTransform>
+
+            <ScrollViewer VerticalScrollBarVisibility="Auto"
+              HorizontalScrollBarVisibility="Disabled">
+                <StackPanel>
+
+                    <!-- Title -->
+
+                    <!-- Title -->
+
+                    <!-- Title -->
+                    <TextBlock Text="Add New Product"
+                               FontSize="28"
+                               FontWeight="Bold"
+                               Foreground="#2C3E50"
+                               Margin="0,0,0,20"/>
+
+                    <Grid Margin="0,10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <!-- Product ID -->
+                        <TextBlock Text="Product ID:"
+                                   VerticalAlignment="Center"
+                                   FontWeight="SemiBold"/>
+                        <TextBox Grid.Column="1"
+                                 Height="35"
+                                 Padding="8"
+                                 x:Name="txtProductId"/>
+                    </Grid>
+
+                    <!-- Product Name -->
+                    <Grid Margin="0,10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock Text="Product Name:"
+                                   VerticalAlignment="Center"
+                                   FontWeight="SemiBold"/>
+                        <TextBox Grid.Column="1"
+                                 Height="35"
+                                 Padding="8"
+                                 x:Name="txtProductName"/>
+                    </Grid>
+
+                    <!-- Category -->
+                    <Grid Margin="0,10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock Text="Category:"
+                                   VerticalAlignment="Center"
+                                   FontWeight="SemiBold"/>
+                        <ComboBox x:Name="cmbCategory" Grid.Column="1" Width="300" Height="33"
+      FontSize="16" Background="AliceBlue" HorizontalAlignment="Left">
+                            <ComboBox.ItemTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding CategoryName}" Margin="5"/>
+                                </DataTemplate>
+                            </ComboBox.ItemTemplate>
+                        </ComboBox>
+                    </Grid>
+
+                    <!-- Price -->
+                    <Grid Margin="0,10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock Text="Price:"
+                                   VerticalAlignment="Center"
+                                   FontWeight="SemiBold"/>
+                        <TextBox Grid.Column="1"
+                                 Height="35"
+                                 Padding="8"
+                                 x:Name="txtPrice"/>
+                    </Grid>
+
+                    <!-- Stock -->
+                    <Grid Margin="0,10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock Text="Stock:"
+                                   VerticalAlignment="Center"
+                                   FontWeight="SemiBold"/>
+                        <TextBox Grid.Column="1"
+                                 Height="35"
+                                 Padding="8"
+                                 x:Name="txtStock"/>
+                    </Grid>
+
+
+                    <!-- Description -->
+                    <TextBlock Text="Description:"
+                               Margin="0,15,0,5"
+                               FontWeight="SemiBold"/>
+                    <TextBox Height="100"
+                             TextWrapping="Wrap"
+                             AcceptsReturn="True"
+                             Padding="8"
+                             x:Name="txtDescription"/>
+
+                    <!-- Product Image -->
+                    <TextBlock Text="Product Image:"
+                               Margin="0,15,0,5"
+                               FontWeight="SemiBold"/>
+
+                    <StackPanel Orientation="Horizontal">
+                        <TextBox Width="450"
+                                 Height="35"
+                                 Padding="8"
+                                 IsReadOnly="True"
+                                 x:Name="txtImageName"/>
+                        <Button Content="Browse"
+                                Width="100"
+                                Height="35"
+                                Margin="10,0,0,0"
+                                Background="#3498DB"
+                                Foreground="White"
+                                Click="BrowseImage_Click"/>
+                    </StackPanel>
+
+                    <Image x:Name="Photo"
+                           Height="37"
+                           Margin="0,15"
+                           Stretch="Uniform"/>
+
+                    <!-- Buttons -->
+                    <StackPanel Orientation="Horizontal"
+                                HorizontalAlignment="Right"
+                                Margin="0,20,0,0">
+                        <Button Content="Cancel"
+                                Width="100"
+                                Height="40"
+                                Margin="0,0,10,0"
+                                Background="#BDC3C7"
+                                Click="Cancel_Click"/>
+                        <Button Content="Save Product"
+                                Width="130"
+                                Height="40"
+                                Background="#2ECC71"
+                                Foreground="White"
+                                FontWeight="Bold"
+                                Click="SaveProduct_Click"/>
+                    </StackPanel>
+
+                </StackPanel>
+            </ScrollViewer>
+        </Border>
+    </Grid>
+</Page>

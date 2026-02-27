@@ -1,0 +1,79 @@
+﻿<Page x:Class="WpfAppClientAdmin.Pages.Admins.PageDeleteAdmin"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfAppClientAdmin.Pages.Admins"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="PageDeleteAdmin">
+
+    <Grid Background="#F4F6F8">
+        <Border MaxWidth="500" 
+                Background="White" 
+                BorderBrush="#DDD" 
+                BorderThickness="1" 
+                CornerRadius="8" 
+                Padding="30" 
+                VerticalAlignment="Center" 
+                HorizontalAlignment="Center">
+            <StackPanel>
+
+                <!-- Title -->
+                <TextBlock Text="Delete Administrator" 
+                           FontSize="24" 
+                           FontWeight="Bold" 
+                           HorizontalAlignment="Center" 
+                           Margin="0,0,0,25"
+                           Foreground="#333"/>
+
+                <!-- Instruction Text -->
+                <TextBlock Text="Enter the Email of the admin you wish to delete. This action cannot be undone." 
+                           TextWrapping="Wrap" 
+                           HorizontalAlignment="Center" 
+                           TextAlignment="Center"
+                           Margin="0,0,0,20"
+                           Foreground="#555"/>
+
+                <!-- Admin Username Input -->
+                <TextBlock Text="Admin Email:" 
+                           FontSize="14" 
+                           FontWeight="SemiBold"
+                           Margin="0,0,0,5"/>
+                <TextBox x:Name="AdminEmailTextBox" 
+                         FontSize="14"
+                         Padding="10,8"
+                         BorderBrush="#CCC"
+                         BorderThickness="1"/>
+
+                <!-- Delete Button -->
+                <Button x:Name="DeleteButton" 
+                        Content="Delete Admin" 
+                        Click="DeleteButton_Click"
+                        FontSize="16" 
+                        FontWeight="Bold"
+                        Padding="15,10"
+                        Margin="0,30,0,10"
+                        Background="#D9534F" 
+                        Foreground="White"
+                        BorderThickness="0"
+                        Cursor="Hand">
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="5"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+
+                <!-- Status Message -->
+                <TextBlock x:Name="StatusTextBlock" 
+                           Text="" 
+                           FontSize="14"
+                           HorizontalAlignment="Center"
+                           Foreground="Red"
+                           Margin="0,10,0,0"/>
+
+            </StackPanel>
+        </Border>
+    </Grid>
+</Page>
