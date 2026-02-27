@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="AspAppClient.SiteMaster" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>Mini Shop</title>
+    <style>
+        body { font-family: Arial; margin: 0; background: #f4f4f4; }
+        .header { background: #2c3e50; color: #fff; padding: 12px; text-align: center; }
+        .header img { height: 70px; }
+        .menu { background: #34495e; padding: 10px; text-align: center; }
+        .menu a { color: white; margin: 0 14px; text-decoration: none; font-weight: bold; }
+        .menu a:hover { text-decoration: underline; }
+        .content { background: #fff; margin: 18px; padding: 18px; border-radius: 8px; }
+        .footer { background: #2c3e50; color:#fff; text-align:center; padding:10px; }
+        .right { float:right; margin-right:10px; }
+        .badge { background:#16a085; padding:4px 10px; border-radius:12px; }
+        .clear { clear: both; }
+    </style>
+</head>
+
+<body>
+<form id="form1" runat="server">
+
+    <div class="header">
+        <!-- put your image in: Images/shop.png -->
+        <img src="Images/shop.PNG" alt="Shop" />
+        <h2>Mini Shop</h2>
+
+        <div class="right">
+            <asp:Label ID="lblWelcome" runat="server" CssClass="badge" />
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="menu"  CssClass="menu">
+        <a href="MasterPage.aspx">Home</a>
+        <a href="UserManagment.aspx">My Account</a>
+        <a href="WebFormSignIn.aspx">Login</a>
+        <a href="WebFormSignUp.aspx">Signup</a>
+        <a href="Logout.aspx">Logout</a>
+    </div>
+
+
+    <div class="content">
+        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+    </div>
+
+    <div class="footer">
+        © 2025 Mini Shop - ASP.NET + Access
+    </div>
+
+</form>
+</body>
+</html>

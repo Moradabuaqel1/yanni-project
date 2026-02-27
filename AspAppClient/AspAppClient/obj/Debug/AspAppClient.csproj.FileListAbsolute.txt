@@ -1,0 +1,21 @@
+E:\WEB PROJECT_12_2_FINAL\AspAppClient\AspAppClient\bin\AspAppClient.dll.config
+E:\WEB PROJECT_12_2_FINAL\AspAppClient\AspAppClient\bin\AspAppClient.dll
+E:\WEB PROJECT_12_2_FINAL\AspAppClient\AspAppClient\bin\AspAppClient.pdb
+E:\WEB PROJECT_12_2_FINAL\AspAppClient\AspAppClient\obj\Debug\AspAppClient.csproj.AssemblyReference.cache
+E:\WEB PROJECT_12_2_FINAL\AspAppClient\AspAppClient\obj\Debug\AspAppClient.csproj.CoreCompileInputs.cache
+E:\WEB PROJECT_12_2_FINAL\AspAppClient\AspAppClient\obj\Debug\AspAppClient.dll
+E:\WEB PROJECT_12_2_FINAL\AspAppClient\AspAppClient\obj\Debug\AspAppClient.pdb
+D:\WEB PROJECT_12_2_FINAL\AspAppClient\AspAppClient\obj\Debug\AspAppClient.csproj.AssemblyReference.cache
+D:\WEB PROJECT_12_2_FINAL\AspAppClient\AspAppClient\obj\Debug\AspAppClient.csproj.CoreCompileInputs.cache
+D:\WEB PROJECT_12_2_FINAL\AspAppClient\AspAppClient\obj\Debug\AspAppClient.dll
+D:\WEB PROJECT_12_2_FINAL\AspAppClient\AspAppClient\obj\Debug\AspAppClient.pdb
+D:\WEB PROJECT_12_2_FINAL\AspAppClient\AspAppClient\bin\AspAppClient.dll.config
+D:\WEB PROJECT_12_2_FINAL\AspAppClient\AspAppClient\bin\AspAppClient.dll
+D:\WEB PROJECT_12_2_FINAL\AspAppClient\AspAppClient\bin\AspAppClient.pdb
+E:\21.2\AspAppClient\AspAppClient\bin\AspAppClient.dll.config
+E:\21.2\AspAppClient\AspAppClient\bin\AspAppClient.dll
+E:\21.2\AspAppClient\AspAppClient\bin\AspAppClient.pdb
+E:\21.2\AspAppClient\AspAppClient\obj\Debug\AspAppClient.csproj.AssemblyReference.cache
+E:\21.2\AspAppClient\AspAppClient\obj\Debug\AspAppClient.csproj.CoreCompileInputs.cache
+E:\21.2\AspAppClient\AspAppClient\obj\Debug\AspAppClient.dll
+E:\21.2\AspAppClient\AspAppClient\obj\Debug\AspAppClient.pdb

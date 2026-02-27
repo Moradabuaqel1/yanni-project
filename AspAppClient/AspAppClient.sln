@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspAppClient", "AspAppClient\AspAppClient.csproj", "{A69A8A67-A36B-4AD4-B299-DB131DB05539}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A69A8A67-A36B-4AD4-B299-DB131DB05539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69A8A67-A36B-4AD4-B299-DB131DB05539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69A8A67-A36B-4AD4-B299-DB131DB05539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69A8A67-A36B-4AD4-B299-DB131DB05539}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {370A8D1E-B7DF-40E8-BFF2-AE3A7CCA1AF2}
+	EndGlobalSection
+EndGlobal
