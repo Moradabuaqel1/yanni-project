@@ -1,0 +1,39 @@
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\App_Data\MyDB.accdb
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\ViewModel.dll
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\ViewModel.pdb
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\Model.dll
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\Model.pdb
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\App_Data\MyDB.accdb
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\Model.dll
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\ViewModel.dll
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\Model.pdb
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\ViewModel.pdb
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.AssemblyReference.cache
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CopyComplete
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppServerSide\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CopyComplete
+E:\21.2\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\App_Data\MyDB.accdb
+E:\21.2\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+E:\21.2\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+E:\21.2\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+E:\21.2\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\Model.dll
+E:\21.2\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\ViewModel.dll
+E:\21.2\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\Model.pdb
+E:\21.2\WpfAppServerSide\WcfServiceLibrary1\bin\Debug\ViewModel.pdb
+E:\21.2\WpfAppServerSide\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.AssemblyReference.cache
+E:\21.2\WpfAppServerSide\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+E:\21.2\WpfAppServerSide\WcfServiceLibrary1\obj\Debug\WcfServi.DA96C48E.Up2Date
+E:\21.2\WpfAppServerSide\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+E:\21.2\WpfAppServerSide\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

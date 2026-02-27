@@ -1,0 +1,30 @@
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppServerSide\ViewModel\bin\Debug\App_Data\MyDB.accdb
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppServerSide\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppServerSide\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppServerSide\ViewModel\bin\Debug\Model.dll
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppServerSide\ViewModel\bin\Debug\Model.pdb
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppServerSide\ViewModel\bin\Debug\App_Data\MyDB.accdb
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppServerSide\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppServerSide\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppServerSide\ViewModel\bin\Debug\Model.dll
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppServerSide\ViewModel\bin\Debug\Model.pdb
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\farah\Downloads\WEB PROJECT_12_2_FINAL (2)\WEB PROJECT_12_2_FINAL\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\Owner\Desktop\WEB PROJECT_12_2_FINAL\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+E:\21.2\WpfAppServerSide\ViewModel\bin\Debug\App_Data\MyDB.accdb
+E:\21.2\WpfAppServerSide\ViewModel\bin\Debug\ViewModel.dll
+E:\21.2\WpfAppServerSide\ViewModel\bin\Debug\ViewModel.pdb
+E:\21.2\WpfAppServerSide\ViewModel\bin\Debug\Model.dll
+E:\21.2\WpfAppServerSide\ViewModel\bin\Debug\Model.pdb
+E:\21.2\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+E:\21.2\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+E:\21.2\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.csproj.Up2Date
+E:\21.2\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.dll
+E:\21.2\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.pdb
