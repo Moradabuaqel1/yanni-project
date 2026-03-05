@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-
+//test
 namespace AspAppClient
 {
     public partial class Logout : System.Web.UI.Page
@@ -21,4 +21,5 @@ namespace AspAppClient
             Response.Redirect("MasterPage.aspx");
         }
     }
+
 }
