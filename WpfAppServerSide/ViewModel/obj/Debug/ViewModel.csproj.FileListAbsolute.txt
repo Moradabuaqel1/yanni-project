@@ -28,3 +28,13 @@ E:\21.2\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.
 E:\21.2\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.csproj.Up2Date
 E:\21.2\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.dll
 E:\21.2\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\WpfAppServerSide\ViewModel\bin\Debug\App_Data\MyDB.accdb
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\WpfAppServerSide\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\WpfAppServerSide\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\WpfAppServerSide\ViewModel\bin\Debug\Model.dll
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\WpfAppServerSide\ViewModel\bin\Debug\Model.pdb
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\WpfAppServerSide\ViewModel\obj\Debug\ViewModel.pdb

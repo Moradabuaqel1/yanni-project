@@ -9,6 +9,7 @@
         public string OriginalCategoryName { get; set; }
 
         public string DisplayImagePath { get; set; }
+        /*__________________________________*/
 
     }
 }

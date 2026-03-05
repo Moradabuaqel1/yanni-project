@@ -19,3 +19,7 @@ E:\21.2\AspAppClient\AspAppClient\obj\Debug\AspAppClient.csproj.AssemblyReferenc
 E:\21.2\AspAppClient\AspAppClient\obj\Debug\AspAppClient.csproj.CoreCompileInputs.cache
 E:\21.2\AspAppClient\AspAppClient\obj\Debug\AspAppClient.dll
 E:\21.2\AspAppClient\AspAppClient\obj\Debug\AspAppClient.pdb
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\AspAppClient\AspAppClient\obj\Debug\AspAppClient.csproj.AssemblyReference.cache
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\AspAppClient\AspAppClient\obj\Debug\AspAppClient.csproj.CoreCompileInputs.cache
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\AspAppClient\AspAppClient\obj\Debug\AspAppClient.dll
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\AspAppClient\AspAppClient\obj\Debug\AspAppClient.pdb

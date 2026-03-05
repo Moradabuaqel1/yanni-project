@@ -26,3 +26,10 @@ E:\21.2\WpfAppServerSide\WpfAppServerSide\obj\Debug\WpfAppServerSide.csproj.Gene
 E:\21.2\WpfAppServerSide\WpfAppServerSide\obj\Debug\WpfAppServerSide.csproj.CoreCompileInputs.cache
 E:\21.2\WpfAppServerSide\WpfAppServerSide\obj\Debug\WpfAppServerSide.exe
 E:\21.2\WpfAppServerSide\WpfAppServerSide\obj\Debug\WpfAppServerSide.pdb
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\WpfAppServerSide\WpfAppServerSide\obj\Debug\WpfAppServerSide.csproj.AssemblyReference.cache
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\WpfAppServerSide\WpfAppServerSide\obj\Debug\MainWindow.g.cs
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\WpfAppServerSide\WpfAppServerSide\obj\Debug\App.g.cs
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\WpfAppServerSide\WpfAppServerSide\obj\Debug\WpfAppServerSide_MarkupCompile.cache
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\WpfAppServerSide\WpfAppServerSide\obj\Debug\WpfAppServerSide_MarkupCompile.lref
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\WpfAppServerSide\WpfAppServerSide\obj\Debug\WpfAppServerSide.exe
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\WpfAppServerSide\WpfAppServerSide\obj\Debug\WpfAppServerSide.pdb

@@ -10,3 +10,9 @@ E:\21.2\WpfAppServerSide\Model\obj\Debug\Model.csproj.AssemblyReference.cache
 E:\21.2\WpfAppServerSide\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
 E:\21.2\WpfAppServerSide\Model\obj\Debug\Model.dll
 E:\21.2\WpfAppServerSide\Model\obj\Debug\Model.pdb
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\WpfAppServerSide\Model\bin\Debug\Model.dll
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\WpfAppServerSide\Model\bin\Debug\Model.pdb
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\WpfAppServerSide\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\WpfAppServerSide\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\WpfAppServerSide\Model\obj\Debug\Model.dll
+C:\Users\farah\Source\Repos\Moradabuaqel1\yanni-project\WpfAppServerSide\Model\obj\Debug\Model.pdb
